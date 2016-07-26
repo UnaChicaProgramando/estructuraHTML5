@@ -1,13 +1,13 @@
 <style>
 div.container {
     width: 100%;
-    border: 1px solid gray;
+    border: 0px solid #2D4674;
 }
 
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
+    background-color: #416F8C;
     clear: left;
     text-align: center;
 }
@@ -30,8 +30,16 @@ nav ul a {
 
 article {
     margin-left: 170px;
-    border-left: 1px solid gray;
+    border-left: 1px solid #2D4674;
     padding: 1em;
     overflow: hidden;
+}
+
+img{
+
+    height: 200px;
+    width: 450px;
+    box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
 }
 </style>
